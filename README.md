@@ -1,22 +1,22 @@
 # Padrões de Projeto
 
-1ª Prova:
+# 1ª Prova:
 
-Abstract Factory
-Prototype
+Abstract Factory,
+Prototype,
 Singleton
 
-2ª Prova:
+# 2ª Prova:
 
-Bridge
-Decorator
-Composite
-Adapter
+Bridge, 
+Decorator, 
+Composite, 
+Adapter 
 
-3ª Prova:
+# 3ª Prova:
 
-Command
-Iterator
-Strategy
-Template Method
+Command, 
+Iterator, 
+Strategy, 
+Template Method, 
 Visitor

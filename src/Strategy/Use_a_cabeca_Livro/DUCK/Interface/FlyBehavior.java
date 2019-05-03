@@ -1,4 +1,4 @@
-package Exemplo_livro_duck.Interface;
+package Strategy.Use_a_cabeca_Livro.DUCK.Interface;
 
 public interface FlyBehavior {
 	

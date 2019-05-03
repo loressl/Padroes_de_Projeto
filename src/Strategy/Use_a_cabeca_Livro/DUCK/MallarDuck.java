@@ -1,4 +1,7 @@
-package Exemplo_livro_duck;
+package Strategy.Use_a_cabeca_Livro.DUCK;
+
+import Strategy.Use_a_cabeca_Livro.DUCK.comportamentos.FlyWithWings;
+import Strategy.Use_a_cabeca_Livro.DUCK.comportamentos.Quack;
 
 public class MallarDuck extends Duck{
 

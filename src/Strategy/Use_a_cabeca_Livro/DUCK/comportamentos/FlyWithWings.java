@@ -1,6 +1,6 @@
-package Exemplo_livro_duck;
+package Strategy.Use_a_cabeca_Livro.DUCK.comportamentos;
 
-import Exemplo_livro_duck.Interface.FlyBehavior;
+import Strategy.Use_a_cabeca_Livro.DUCK.Interface.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior{
 

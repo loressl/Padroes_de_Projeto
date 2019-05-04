@@ -1,8 +1,8 @@
 package Factory;
 
-import Factory.classes.Moeda;
-import Factory.classes.MoedaFactory;
-import Factory.classes.Pais;
+import Factory.classes.Moeda.Moeda;
+import Factory.classes.Moeda.MoedaFactory;
+import Factory.classes.Moeda.Pais;
 
 public class MoedaTeste {
 	

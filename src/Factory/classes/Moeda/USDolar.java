@@ -1,4 +1,4 @@
-package Factory.classes;
+package Factory.classes.Moeda;
 
 public class USDolar implements Moeda{
 

@@ -19,12 +19,14 @@ public class Teste {
 		PalioPrototype palioPrototype = (PalioPrototype) factory.create("Palio 8");
 		GolPrototype golPrototype = (GolPrototype) factory.create("Gol 1");
 		FiestaPrototype fiestaPrototype = (FiestaPrototype) factory.create("Fiesta 3");
+		FiestaPrototype fiestaPrototype2 = (FiestaPrototype) factory.create("Fiesta 3");
 		
 		System.out.println("***************************************");
 		System.out.println("Showing prototypes....");
 		System.out.println(palioPrototype.show());
 		System.out.println(golPrototype.show());
 		System.out.println(fiestaPrototype.show());
+		System.out.println(fiestaPrototype2.show());
 		
 		System.out.println("Unregistering prototypes...");
 		System.out.println(factory.unregisterPrototype("Palio 8"));

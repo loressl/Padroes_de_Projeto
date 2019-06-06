@@ -1,6 +1,6 @@
-package Abstracty_Factory.classes;
+package Abstracty_Factory.app.classes;
 
-import Abstracty_Factory.Interfaces.Engine;
+import Abstracty_Factory.app.Interfaces.Engine;
 
 public class TruckEngine implements Engine{
 

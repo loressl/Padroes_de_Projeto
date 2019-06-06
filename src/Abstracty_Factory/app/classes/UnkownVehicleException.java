@@ -1,4 +1,4 @@
-package Abstracty_Factory.classes;
+package Abstracty_Factory.app.classes;
 
 public class UnkownVehicleException extends RuntimeException{
 

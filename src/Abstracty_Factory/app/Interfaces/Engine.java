@@ -1,4 +1,4 @@
-package Abstracty_Factory.Interfaces;
+package Abstracty_Factory.app.Interfaces;
 
 public interface Engine {
 	

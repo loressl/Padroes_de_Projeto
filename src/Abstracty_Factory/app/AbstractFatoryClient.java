@@ -1,11 +1,11 @@
-package Abstracty_Factory;
+package Abstracty_Factory.app;
 
 import java.util.Scanner;
 
-import Abstracty_Factory.Interfaces.Engine;
-import Abstracty_Factory.Interfaces.Tyre;
-import Abstracty_Factory.classes.Factory;
-import Abstracty_Factory.classes.UnkownVehicleException;
+import Abstracty_Factory.app.Interfaces.Engine;
+import Abstracty_Factory.app.Interfaces.Tyre;
+import Abstracty_Factory.app.classes.Factory;
+import Abstracty_Factory.app.classes.UnkownVehicleException;
 
 public class AbstractFatoryClient {
 

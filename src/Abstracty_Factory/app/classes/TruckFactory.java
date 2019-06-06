@@ -1,7 +1,7 @@
-package Abstracty_Factory.classes;
+package Abstracty_Factory.app.classes;
 
-import Abstracty_Factory.Interfaces.Engine;
-import Abstracty_Factory.Interfaces.Tyre;
+import Abstracty_Factory.app.Interfaces.Engine;
+import Abstracty_Factory.app.Interfaces.Tyre;
 
 public class TruckFactory extends Factory{
 

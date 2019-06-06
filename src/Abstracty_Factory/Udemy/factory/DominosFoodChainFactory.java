@@ -1,9 +1,9 @@
-package Abstract_Factory_UDEMY.factory;
+package Abstracty_Factory.Udemy.factory;
 
-import Abstract_Factory_UDEMY.products.DominosFoodMenu;
-import Abstract_Factory_UDEMY.products.DominosFurniture;
-import Abstract_Factory_UDEMY.products.FoodMenu;
-import Abstract_Factory_UDEMY.products.Furniture;
+import Abstracty_Factory.Udemy.products.DominosFoodMenu;
+import Abstracty_Factory.Udemy.products.DominosFurniture;
+import Abstracty_Factory.Udemy.products.FoodMenu;
+import Abstracty_Factory.Udemy.products.Furniture;
 
 public class DominosFoodChainFactory implements FoodChainFactory{
 

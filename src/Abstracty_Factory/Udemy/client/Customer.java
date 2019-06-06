@@ -1,4 +1,4 @@
-package Abstract_Factory_UDEMY.client;
+package Abstracty_Factory.Udemy.client;
 
 public class Customer {
 

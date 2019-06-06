@@ -1,4 +1,4 @@
-package Abstract_Factory_UDEMY.products;
+package Abstracty_Factory.Udemy.products;
 
 public class DominosFoodMenu extends FoodMenu{
 

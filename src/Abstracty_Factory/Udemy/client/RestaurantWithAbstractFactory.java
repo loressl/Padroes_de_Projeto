@@ -1,8 +1,8 @@
-package Abstract_Factory_UDEMY.client;
+package Abstracty_Factory.Udemy.client;
 
-import Abstract_Factory_UDEMY.factory.FoodChainFactory;
-import Abstract_Factory_UDEMY.products.FoodMenu;
-import Abstract_Factory_UDEMY.products.Furniture;
+import Abstracty_Factory.Udemy.factory.FoodChainFactory;
+import Abstracty_Factory.Udemy.products.FoodMenu;
+import Abstracty_Factory.Udemy.products.Furniture;
 
 public class RestaurantWithAbstractFactory {
 	

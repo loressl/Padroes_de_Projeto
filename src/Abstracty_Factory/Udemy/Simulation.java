@@ -1,9 +1,9 @@
-package Abstract_Factory_UDEMY;
+package Abstracty_Factory.Udemy;
 
-import Abstract_Factory_UDEMY.client.Customer;
-import Abstract_Factory_UDEMY.client.RestaurantWithAbstractFactory;
-import Abstract_Factory_UDEMY.factory.DominosFoodChainFactory;
-import Abstract_Factory_UDEMY.factory.KFCStyleFoodChain;
+import Abstracty_Factory.Udemy.client.Customer;
+import Abstracty_Factory.Udemy.client.RestaurantWithAbstractFactory;
+import Abstracty_Factory.Udemy.factory.DominosFoodChainFactory;
+import Abstracty_Factory.Udemy.factory.KFCStyleFoodChain;
 
 public class Simulation {
 

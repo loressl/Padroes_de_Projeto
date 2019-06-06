@@ -1,9 +1,9 @@
-package Abstract_Factory_UDEMY.factory;
+package Abstracty_Factory.Udemy.factory;
 
-import Abstract_Factory_UDEMY.products.FoodMenu;
-import Abstract_Factory_UDEMY.products.Furniture;
-import Abstract_Factory_UDEMY.products.KFCFoodMenu;
-import Abstract_Factory_UDEMY.products.KFCFurniture;
+import Abstracty_Factory.Udemy.products.FoodMenu;
+import Abstracty_Factory.Udemy.products.Furniture;
+import Abstracty_Factory.Udemy.products.KFCFoodMenu;
+import Abstracty_Factory.Udemy.products.KFCFurniture;
 
 public class KFCStyleFoodChain implements FoodChainFactory{
 

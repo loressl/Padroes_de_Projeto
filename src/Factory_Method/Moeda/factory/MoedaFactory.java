@@ -1,4 +1,9 @@
-package Factory.classes.Moeda;
+package Factory_Method.Moeda.factory;
+
+import Factory_Method.Moeda.Interface.Moeda;
+import Factory_Method.Moeda.classes.Pais;
+import Factory_Method.Moeda.classes.Real;
+import Factory_Method.Moeda.classes.USDolar;
 
 /**
  * 

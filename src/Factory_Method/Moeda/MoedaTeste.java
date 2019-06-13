@@ -1,8 +1,8 @@
-package Factory;
+package Factory_Method.Moeda;
 
-import Factory.classes.Moeda.Moeda;
-import Factory.classes.Moeda.MoedaFactory;
-import Factory.classes.Moeda.Pais;
+import Factory_Method.Moeda.Interface.Moeda;
+import Factory_Method.Moeda.classes.Pais;
+import Factory_Method.Moeda.factory.MoedaFactory;
 
 public class MoedaTeste {
 	

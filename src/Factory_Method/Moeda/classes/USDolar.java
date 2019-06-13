@@ -1,4 +1,6 @@
-package Factory.classes.Moeda;
+package Factory_Method.Moeda.classes;
+
+import Factory_Method.Moeda.Interface.Moeda;
 
 public class USDolar implements Moeda{
 

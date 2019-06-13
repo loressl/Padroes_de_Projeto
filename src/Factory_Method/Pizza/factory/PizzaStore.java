@@ -1,4 +1,7 @@
-package Factory.classes.Pizza;
+package Factory_Method.Pizza.factory;
+
+import Factory_Method.Pizza.classes.Pizza;
+
 /**
  * 
  * Como se fosse a factory método e pode ser extendida para as outras

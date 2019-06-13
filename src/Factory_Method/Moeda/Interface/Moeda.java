@@ -1,4 +1,4 @@
-package Factory.classes.Moeda;
+package Factory_Method.Moeda.Interface;
 
 public interface Moeda {
 	

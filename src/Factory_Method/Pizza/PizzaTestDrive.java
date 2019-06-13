@@ -1,9 +1,9 @@
-package Factory;
+package Factory_Method.Pizza;
 
-import Factory.classes.Pizza.ChicagoStylePizzaStore;
-import Factory.classes.Pizza.NYStylePizzaStore;
-import Factory.classes.Pizza.Pizza;
-import Factory.classes.Pizza.PizzaStore;
+import Factory_Method.Pizza.classes.Pizza;
+import Factory_Method.Pizza.factory.ChicagoStylePizzaStore;
+import Factory_Method.Pizza.factory.NYStylePizzaStore;
+import Factory_Method.Pizza.factory.PizzaStore;
 
 public class PizzaTestDrive {
 	

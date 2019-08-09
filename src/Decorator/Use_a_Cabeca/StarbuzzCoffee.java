@@ -1,8 +1,12 @@
 package Decorator.Use_a_Cabeca;
 
+import Decorator.Use_a_Cabeca.classes.DarkRoast;
+import Decorator.Use_a_Cabeca.classes.Espresso;
+import Decorator.Use_a_Cabeca.classes.HouseBlend;
 import Decorator.Use_a_Cabeca.decorador.Mocha;
 import Decorator.Use_a_Cabeca.decorador.Soy;
 import Decorator.Use_a_Cabeca.decorador.Whip;
+import Decorator.Use_a_Cabeca.interfaces.Beverage;
 
 public class StarbuzzCoffee {
 

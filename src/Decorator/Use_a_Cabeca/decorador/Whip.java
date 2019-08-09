@@ -1,6 +1,7 @@
 package Decorator.Use_a_Cabeca.decorador;
 
-import Decorator.Use_a_Cabeca.Beverage;
+import Decorator.Use_a_Cabeca.interfaces.Beverage;
+import Decorator.Use_a_Cabeca.interfaces.CondimentDecorator;
 
 public class Whip extends CondimentDecorator{
 

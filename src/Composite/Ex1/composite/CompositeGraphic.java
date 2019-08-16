@@ -1,9 +1,9 @@
-package Composite.Use_a_cabeca.composite;
+package Composite.Ex1.composite;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import Composite.Use_a_cabeca.component.Graphic;
+import Composite.Ex1.component.Graphic;
 
 public class CompositeGraphic implements Graphic {
 

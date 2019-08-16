@@ -1,6 +1,6 @@
-package Composite.Use_a_cabeca.leaf;
+package Composite.Ex1.leaf;
 
-import Composite.Use_a_cabeca.component.Graphic;
+import Composite.Ex1.component.Graphic;
 
 public class Ellipse implements Graphic {
 

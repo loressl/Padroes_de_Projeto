@@ -1,7 +1,7 @@
-package Composite.Use_a_cabeca;
+package Composite.Ex1;
 
-import Composite.Use_a_cabeca.composite.CompositeGraphic;
-import Composite.Use_a_cabeca.leaf.Ellipse;
+import Composite.Ex1.composite.CompositeGraphic;
+import Composite.Ex1.leaf.Ellipse;
 
 public class Cliente {
 

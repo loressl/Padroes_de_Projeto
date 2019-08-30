@@ -1,4 +1,4 @@
-package Proxy.Use_a_Cabeca.interfaces;
+package Proxy.TutorialsPoint.interfaces;
 
 public interface Image {
 	public void display();

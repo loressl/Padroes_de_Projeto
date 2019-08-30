@@ -1,7 +1,7 @@
-package Proxy.Use_a_Cabeca;
+package Proxy.TutorialsPoint;
 
-import Proxy.Use_a_Cabeca.classes.ProxyImage;
-import Proxy.Use_a_Cabeca.interfaces.Image;
+import Proxy.TutorialsPoint.classes.ProxyImage;
+import Proxy.TutorialsPoint.interfaces.Image;
 
 public class Cliente {
 

@@ -1,6 +1,6 @@
-package Proxy.Use_a_Cabeca.classes;
+package Proxy.TutorialsPoint.classes;
 
-import Proxy.Use_a_Cabeca.interfaces.Image;
+import Proxy.TutorialsPoint.interfaces.Image;
 
 public class ProxyImage implements Image{
 

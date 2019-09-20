@@ -1,7 +1,7 @@
-package Comand.Use_a_Cabeca.invocador;
+package Command.Use_a_Cabeca.invocador;
 
-import Comand.Use_a_Cabeca.interfaces.Command;
-import Comand.Use_a_Cabeca.objectonulo.NoCommand;
+import Command.Use_a_Cabeca.interfaces.Command;
+import Command.Use_a_Cabeca.objectonulo.NoCommand;
 
 public class RemoteControl {
 	

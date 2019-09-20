@@ -1,6 +1,6 @@
-package Comand.Use_a_Cabeca.objectonulo;
+package Command.Use_a_Cabeca.objectonulo;
 
-import Comand.Use_a_Cabeca.interfaces.Command;
+import Command.Use_a_Cabeca.interfaces.Command;
 
 public class NoCommand implements Command{
 

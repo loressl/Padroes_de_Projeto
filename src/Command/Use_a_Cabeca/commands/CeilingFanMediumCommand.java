@@ -1,7 +1,7 @@
-package Comand.Use_a_Cabeca.commands;
+package Command.Use_a_Cabeca.commands;
 
-import Comand.Use_a_Cabeca.interfaces.Command;
-import Comand.Use_a_Cabeca.receiver.CeilingFan;
+import Command.Use_a_Cabeca.interfaces.Command;
+import Command.Use_a_Cabeca.receiver.CeilingFan;
 
 public class CeilingFanMediumCommand implements Command {
 

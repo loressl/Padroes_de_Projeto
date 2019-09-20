@@ -1,4 +1,4 @@
-package Comand.Use_a_Cabeca.receiver;
+package Command.Use_a_Cabeca.receiver;
 
 public class Light {
 	

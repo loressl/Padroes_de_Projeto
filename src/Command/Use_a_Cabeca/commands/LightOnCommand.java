@@ -1,7 +1,7 @@
-package Comand.Use_a_Cabeca.commands;
+package Command.Use_a_Cabeca.commands;
 
-import Comand.Use_a_Cabeca.interfaces.Command;
-import Comand.Use_a_Cabeca.receiver.Light;
+import Command.Use_a_Cabeca.interfaces.Command;
+import Command.Use_a_Cabeca.receiver.Light;
 
 public class LightOnCommand implements Command{
 

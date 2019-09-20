@@ -1,13 +1,13 @@
-package Comand.Use_a_Cabeca;
+package Command.Use_a_Cabeca;
 
-import Comand.Use_a_Cabeca.commands.CeilingFanHighCommand;
-import Comand.Use_a_Cabeca.commands.CeilingFanMediumCommand;
-import Comand.Use_a_Cabeca.commands.CeilingFanOffCommand;
-import Comand.Use_a_Cabeca.commands.LightOffCommand;
-import Comand.Use_a_Cabeca.commands.LightOnCommand;
-import Comand.Use_a_Cabeca.invocador.RemoteControl;
-import Comand.Use_a_Cabeca.receiver.CeilingFan;
-import Comand.Use_a_Cabeca.receiver.Light;
+import Command.Use_a_Cabeca.commands.CeilingFanHighCommand;
+import Command.Use_a_Cabeca.commands.CeilingFanMediumCommand;
+import Command.Use_a_Cabeca.commands.CeilingFanOffCommand;
+import Command.Use_a_Cabeca.commands.LightOffCommand;
+import Command.Use_a_Cabeca.commands.LightOnCommand;
+import Command.Use_a_Cabeca.invocador.RemoteControl;
+import Command.Use_a_Cabeca.receiver.CeilingFan;
+import Command.Use_a_Cabeca.receiver.Light;
 
 public class Cliente {
 

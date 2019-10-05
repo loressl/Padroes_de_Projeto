@@ -1,6 +1,9 @@
-package Observer.Use_a_cabeca;
+package Observer.Use_a_cabeca.subject;
 
 import java.util.ArrayList;
+
+import Observer.Use_a_cabeca.interfaces.Observer;
+import Observer.Use_a_cabeca.interfaces.Subject;
 
 public class WeatherData implements Subject{
 	

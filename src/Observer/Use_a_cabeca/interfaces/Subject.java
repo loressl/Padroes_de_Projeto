@@ -1,4 +1,4 @@
-package Observer.Use_a_cabeca;
+package Observer.Use_a_cabeca.interfaces;
 
 public interface Subject {
 	

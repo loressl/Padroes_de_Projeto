@@ -1,5 +1,7 @@
 package Observer.Use_a_cabeca;
 
+import Observer.Use_a_cabeca.subject.WeatherData;
+
 public class WeatherStation {
 	public static void main(String[] args) {
 		

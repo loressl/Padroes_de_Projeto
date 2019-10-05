@@ -1,4 +1,8 @@
-package Observer.Use_a_cabeca;
+package Observer.Use_a_cabeca.observer;
+
+import Observer.Use_a_cabeca.interfaces.DisplayElement;
+import Observer.Use_a_cabeca.interfaces.Observer;
+import Observer.Use_a_cabeca.interfaces.Subject;
 
 public class ForecastDisplay implements Observer, DisplayElement{
 	

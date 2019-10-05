@@ -1,5 +1,9 @@
 package Observer.Use_a_cabeca;
 
+import Observer.Use_a_cabeca.interfaces.DisplayElement;
+import Observer.Use_a_cabeca.interfaces.Observer;
+import Observer.Use_a_cabeca.interfaces.Subject;
+
 public class CurrentConditionsDisplay implements Observer, DisplayElement{
 
 	private float temperature;

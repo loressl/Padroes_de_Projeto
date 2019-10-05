@@ -1,4 +1,7 @@
-package Observer.Use_a_cabeca;
+package Observer.Use_a_cabeca.observer;
+
+import Observer.Use_a_cabeca.interfaces.DisplayElement;
+import Observer.Use_a_cabeca.interfaces.Observer;
 
 public class StatisticsDisplay implements Observer, DisplayElement{
 
